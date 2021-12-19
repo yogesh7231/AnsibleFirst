@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  tasks:
+  - name: This is my first ansible playbook.
+    command: firefox
